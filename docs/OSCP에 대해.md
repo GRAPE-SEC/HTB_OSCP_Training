@@ -4,6 +4,10 @@
 
 ## 1. OSCP란 무엇인가?
 
+![간지나죠잉](https://github.com/user-attachments/assets/21a2595f-789b-4169-a073-9e95c76120e3)
+
+[Penetration Testing with Kali Linux (PEN-200)](https://portal.offsec.com/courses/pen-200-44065/overview)
+
 **OSCP (Offensive Security Certified Professional)** 는 보안 업계에서 가장 인지도 높고 실무적인 모의해킹(Penetration Testing) 자격증입니다.
 
 - 주관: OffSec
@@ -39,6 +43,8 @@
 
 ## 3. 시험 범위 및 주요 내용 (PEN-200)
 
+![많네..](https://github.com/user-attachments/assets/061f792a-eeb2-4bec-9e03-4e85b1d0dcdb)
+
 OSCP 시험은 PEN-200 (Penetration Testing with Kali Linux) 교육 과정을 기반으로 출제됩니다.
 
 ### 3.1. 주요 학습 토픽
@@ -65,12 +71,16 @@ OSCP 시험은 PEN-200 (Penetration Testing with Kali Linux) 교육 과정을 �
 
 ## 4. 응시 비용 및 패키지 (Pricing 2025)
 
+![키에엑 비싸다](https://github.com/user-attachments/assets/511683b7-c765-4920-9195-0de7db83468e)
+
 OffSec의 가격 정책은 변동될 수 있으나, 일반적으로 아래 두 가지 옵션이 가장 많이 선택됩니다. (환율에 따라 변동)
+
+[offsec/pen-200](https://www.offsec.com/courses/pen-200/) 공식은 여기로
 
 | 패키지명             | 가격 (USD) | 포함 내용                                                                                           | 비고                                                |
 |----------------------|------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| Active Directory Set | $1,649     | - PEN-200 코스 자료 (90일)  <br> - 90일 Lab 접속 권한 <br>  - 시험 응시권 1회                             | 가장 기본적인 패키지.    기간 내 집중 학습 필요.    |
-| Learn One            | $2,599     | - PEN-200 코스 자료 (1년) <br>  - 1년 Lab 접속 권한 <br>  - 시험 응시권 2회  <br> - PEN-103/210 등 추가 코스 | 직장인이나 장기 준비생 추천.    재시험 부담이 적음. |
+| Course + certification Exam Bundle | $1,749     | - PEN-200 코스 자료 (90일)  <br> - 90일 Lab 접속 권한 <br>  - 시험 응시권 1회                             | 가장 기본적인 패키지.    기간 내 집중 학습 필요.    |
+| Learn One            | $2,749     | - PEN-200 코스 자료 (1년) <br>  - 1년 Lab 접속 권한 <br>  - 시험 응시권 2회  <br> - PEN-103/210 등 추가 코스 | 직장인이나 장기 준비생 추천.    재시험 부담이 적음. |
 | 재시험 비용 (Retake) | $249       | - 시험 응시권 1회 추가                                                                              | 불합격 시 추가 결제 비용.                           |
 
 참고: 2025년 기준 OSCP+ 도입 등에 따라 프로모션이나 가격 정책이 바뀔 수 있으므로, 결제 전 OffSec 공식 홈페이지를 반드시 확인하세요.
