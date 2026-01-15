@@ -5,6 +5,10 @@
 ## 참여자
 
 - 진학범 ([호롱고양이의 개발일지](https://oil-lamp-cat.github.io/), [oil-lamp-cat/github](https://github.com/oil-lamp-cat))
+- 이서영 ([MMM121234/github](https://github.com/MMM121234))
+- 서정호 ([jzead/github](https://github.com/jzead))
+- 장주연 ([Queue-JY/github](https://github.com/Queue-JY))
+- 박현준 ([Firebear518/github](https://github.com/Firebear518))
 
 ## OSCP에 대하여
 
@@ -27,6 +31,14 @@
 | 주차 | 문제명 (Machine) | OS | 난이도 | 풀이해결 및 보고서 (Report) | 주요 키워드 (Tags) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |1주차|**Meow**|Linux🐧|Easy|[[HTB] Hack The Box의 시작과 CAP (Easy_Linux)](https://oil-lamp-cat.github.io/posts/SaturnX-Operators_HTB_CAP/)|뭐더라 기억이 안나네|
+
+## 주차 진행 상황
+
+> 1주차
+
+Vmware 칼리 세팅하기, 일단 Starting Point 풀어보기.
+
+아직 보고서는 좀 어려버.
 
 ## 리포트 템플릿
 
